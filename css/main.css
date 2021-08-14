@@ -17,11 +17,12 @@ body {
 }
 
 .selfIntroduction {
-    width: 1000px;
+    max-width: 1000px;
+    height: 867px;
 }
 
 .write{
-    width: 700px;
+    max-width: 700px;
     float: left;
     font-size: 2.7rem;
     padding-top: 1rem;
@@ -34,9 +35,30 @@ body {
 
 .contactMe {
     padding-top: 3rem;
-    width: 1000px;
+    max-width: 1000px;
     float: left;
     font-weight: bold;
+}
+
+.background{
+    max-width: 1000px;
+}
+
+.nameChapter{
+    float: left;
+    color:#620aaa;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.mail{
+    
+}
+
+.explication {
+    max-width: 700px;
+    font-size: 1.4rem;
+    float: right;
 }
 
 
