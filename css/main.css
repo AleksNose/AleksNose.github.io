@@ -2,7 +2,6 @@ body {
     background-color: #fff;
     color:#484848;
     font-size: 1.5em;
-    max-width: 1200px;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -62,6 +61,7 @@ body {
     width: 200px;
     font-size: 1.4rem;
     font-weight: bold;
+    text-align: left;
 
 }
 
