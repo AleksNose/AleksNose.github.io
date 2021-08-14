@@ -7,24 +7,28 @@ body {
 
 .cotrainer {
     max-width: 1000px;
+    padding-right: 4rem;
     margin-left: auto;
     margin-right: auto;
 }
 
 .hi {
-    font-size: 2.7rem;
+    font-size: 2.5rem;
     padding-top: 11rem;
+    padding-left: 4rem;
+
 }
 
 .selfIntroduction {
     max-width: 1000px;
     height: 867px;
+    padding-left: 4rem;
 }
 
 .write{
     max-width: 700px;
     float: left;
-    font-size: 2.7rem;
+    font-size: 2.5rem;
     padding-top: 1rem;
 }
 
@@ -42,13 +46,18 @@ body {
 
 .background{
     max-width: 1000px;
+    height: 790px;
+    margin-bottom: 5rem;
 }
 
 .nameChapter{
     float: left;
     color:#620aaa;
+    width: 200px;
     font-size: 1.4rem;
     font-weight: bold;
+    text-align: right;
+
 }
 
 .mail{
