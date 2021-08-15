@@ -6,6 +6,18 @@ body {
 }
 
 
+.nameSkills{
+    font-size: 1.5rem;
+}
+
+.skill{
+    padding: 1.5rem;
+}
+.cshirp {
+    float:unset;
+    color: pink;
+    background-image: pink;
+}
 
 .cotrainer {
     max-width: 1200px;
@@ -62,6 +74,7 @@ body {
     font-size: 1.4rem;
     font-weight: bold;
     text-align: left;
+    height: 300px;
 
 }
 
