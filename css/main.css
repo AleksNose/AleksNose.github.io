@@ -13,14 +13,9 @@ body {
 .skill{
     padding: 1.5rem;
 }
-.cshirp {
-    float:unset;
-    color: pink;
-    background-image: pink;
-}
 
 .cotrainer {
-    max-width: 1200px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -67,10 +62,14 @@ body {
     margin-bottom: 5rem;
 }
 
+.skillsExplication{  
+   font-size: 10rem;
+}
+
 .nameChapter{
     float: left;
     color:#620aaa;
-    width: 200px;
+    width: 300px;
     font-size: 1.4rem;
     font-weight: bold;
     text-align: left;
@@ -78,9 +77,39 @@ body {
 
 }
 
-.mail{
-    
+.fa-python:before,  .fa-trello:before, .fa-jira:before, .fa-git-alt:before, .fa-java:before, .fa-unity:before {
+    font-size: 30px;
 }
+
+.fa-unity:before{
+    padding-left: 9.7rem;
+}
+
+.fa-python:before{
+    padding-left: 3rem;
+}
+
+.fa-trello:before{
+    padding-left: 2.8rem;
+}
+
+.fa-jira:before{
+    padding-left: 7.8rem;
+}
+
+.fa-git-alt:before{
+    padding-left: 9.1rem;
+}
+
+
+.cshirp{
+    vertical-align:sub;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    fill: #484848;
+}
+
+
 
 .explication {
     max-width: 700px;
