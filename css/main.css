@@ -121,4 +121,49 @@ body {
     float: right;
 }
 
+.rightBanerProject, .rightDescription , .rightProject{
+    float: right;
+}
+
+.leftDescription{
+    padding-left: 50px;
+}
+
+.rightDescription{
+    padding-right: 50px;
+}
+
+
+.leftDescription,  .leftBanerProject, .leftProject{
+    float: left;
+}
+
+.titleProject{
+    font-style: italic;
+}
+
+
+.leftDescription, .rightDescription{
+    width: 200px;
+}
+
+.centerRightDescription{
+    width: 700px;
+    float: right;
+}
+
+.centerLeftDescription{
+    width: 700px;
+    float: right;
+}
+
+.leftProject, .rightProject{
+    width: 700px;
+    height: 500px;
+}
+
+.leftProject{
+    padding-left: 300px;
+}
+
 
