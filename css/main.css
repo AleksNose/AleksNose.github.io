@@ -8,6 +8,7 @@ body {
 
 .nameSkills{
     font-size: 1.5rem;
+    padding-left: 19rem;
 }
 
 .skill{
@@ -22,6 +23,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    height: 3950px;
 }
 
 .page{
@@ -77,7 +79,6 @@ body {
     font-size: 1.4rem;
     font-weight: bold;
     text-align: left;
-    height: 200px;
 
 }
 
@@ -104,7 +105,6 @@ body {
 .fa-git-alt:before{
     padding-left: 9.1rem;
 }
-
 
 .cshirp{
     vertical-align:sub;
@@ -166,4 +166,43 @@ body {
     padding-left: 300px;
 }
 
+.footer{
+    max-width: 1900px;
+    height: 100px;
+}
+
+.infoPage {
+    width: 200px;
+    height: 100px;
+    font-style: bold;
+    font-size: 1rem;
+    padding-left: 5rem;
+    float: left;
+}
+
+.media{
+    float: right;
+    width: 450px;
+}
+
+.fa-envelope, 
+.fa-github,
+.fa-itch-io,
+.fa-linkedin
+{
+    font-size: 2rem;
+    padding: 2rem;
+    color:#484848;
+}
+
+::selection {
+    background: #91e0c6;
+}
+
+.fa-envelope:hover, 
+.fa-github:hover,
+.fa-itch-io:hover,
+.fa-linkedin:hover {
+    color: #07a570;
+}
 
