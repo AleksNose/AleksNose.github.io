@@ -86,11 +86,11 @@ body {
 }
 
 .fa-unity:before{
-    padding-left: 9.7rem;
+    padding-left: 14.7rem;
 }
 
 .fa-python:before{
-    padding-left: 3rem;
+    padding-left: 10rem;
 }
 
 .fa-trello:before{
@@ -98,17 +98,17 @@ body {
 }
 
 .fa-jira:before{
-    padding-left: 7.8rem;
+    padding-left: 19.9rem;
 }
 
 .fa-git-alt:before{
-    padding-left: 9.1rem;
+    padding-left: 14.3rem;
 }
 
 .cshirp{
     vertical-align:sub;
     padding-left: 3rem;
-    padding-right: 3rem;
+    padding-right: 8rem;
     fill: #484848;
 }
 
