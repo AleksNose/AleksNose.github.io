@@ -23,7 +23,7 @@ body {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    height: 3950px;
+    height: 3850px;
 }
 
 .page{
@@ -73,7 +73,7 @@ body {
 
 .nameChapter{
     float: left;
-    color:#620aaa;
+    color:#0a15aa;
     width: 300px;
     font-size: 1.4rem;
     font-weight: bold;
@@ -144,6 +144,7 @@ body {
 
 .leftDescription, .rightDescription{
     width: 200px;
+    font-size: 1.15rem;
 }
 
 .centerRightDescription{
@@ -195,13 +196,13 @@ body {
 }
 
 ::selection {
-    background: #91e0c6;
+    background: #ee9c59;
 }
 
 .fa-envelope:hover, 
 .fa-github:hover,
 .fa-itch-io:hover,
 .fa-linkedin:hover {
-    color: #07a570;
+    color: #e65400;
 }
 
